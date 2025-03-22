@@ -1,2 +1,1 @@
-# yashtyagi
-Hello world! this is my profile
+🎯 Data Science Enthusiast | 📈 Aspiring ML Engineer | 🧠 DSA Problem Solver
